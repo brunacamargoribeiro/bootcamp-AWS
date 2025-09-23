@@ -23,7 +23,7 @@ Aqui você encontrará:
 
 - Navegue pelas pastas `resumos` e `desafios` para consultar o material.
 - Sinta-se à vontade para estudar, revisar e se inspirar no conteúdo.
-- Recomenda-se a leitura sequencial dos resumos para acompanhar a evolução do curso.
+- Recomenda-se a leitura sequencial dos resumos para acompanhar a evolução do curso.  
 
 ---
 
