@@ -2,7 +2,7 @@
 <div align="justify">
 A AWS é uma plataforma de nuvem que oferece mais de 200 serviços, sendo uma infraestrutura completa para aplicações em todo o mundo. 
 
-A operação da AWS conta com uma extensa" rede Global de data centers denominados Regiões e  Zonas de disponibilidade. 
+A operação da AWS conta com uma extensa rede Global de data centers denominados Regiões e  Zonas de disponibilidade. 
 
 :earth_americas: **Regiões (Regions)**
 
